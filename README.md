@@ -1,0 +1,1 @@
+# Mikhalitsyn.University.SmartHomeAutomationDashboard
